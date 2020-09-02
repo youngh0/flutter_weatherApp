@@ -7,9 +7,9 @@
 <hr>
 how to use?
 <br>
-<ul>
+<ol>
     <li>execution main.dart</li>
     <li>sign up with your email and log in</li>
     <li>search for the city you want in English.</li>
     <li>finally, you can know the city weather!!</li>
-</ul>
+</ol>
