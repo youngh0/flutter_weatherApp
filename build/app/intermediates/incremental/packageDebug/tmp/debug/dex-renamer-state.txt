@@ -1,0 +1,4 @@
+#Tue Aug 25 16:06:01 KST 2020
+base.0=/Users/youngho/Desktop/flutter_study/login_firebase/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
