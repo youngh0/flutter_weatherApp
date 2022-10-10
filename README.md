@@ -1,15 +1,16 @@
 # flutter_weatherApp
-<p>After signing up and logging in, search for the weather in the city where you want.</p>
+
+<p>회원가입 및 로그인 후, 날씨를 알고 싶은 도시를 입력해 날씨 정보를 검색합니다.</p>
 <ul>
-    <li>Login service is implemented through firebase</li>
-    <li>Weather information is implemented through openAPI</li>
+    <li>회원 서비스는 firebase를 이용했습니다.</li>
+    <li>날씨 정보는 openweather API를 이용했습니다.</li>
 </ul>
 <hr>
-how to use?
+사용 방법
 <br>
 <ol>
-    <li>execution main.dart</li>
-    <li>sign up with your email and log in</li>
-    <li>search for the city you want in English.</li>
-    <li>finally, you can know the city weather!!</li>
+    <li>main.dart를 실행합니다.</li>
+    <li>email을 이용해 회원가입 및 로그인을 합니다.</li>
+    <li>원하는 도시를 영어로 입력합니다. ex)seoul</li>
+    <li>해당 도시의 날씨 정보를 알 수 있습니다!</li>
 </ol>
